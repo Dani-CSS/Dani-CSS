@@ -7,7 +7,7 @@
         Postgraduate Lato Sensu in Software Engeneering at Universidade Católica de Brasília(UCB).<br>
      Currently attending MBA in Data Science and Analytics at USP ESALQ, expected completion in august/2023.<br>
                Developing full stack skills.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+    
     </i><br>
     <a href="https://(https://www.linkedin.com/in/danielecardososs/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
