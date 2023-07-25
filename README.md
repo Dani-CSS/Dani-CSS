@@ -8,7 +8,7 @@
      Currently attending MBA in Data Science and Analytics at USP ESALQ, expected completion in august/2023.<br>
                Developing full stack skills.<br>    
     </i><br>
-    <a href="https://(https://www.linkedin.com/in/danielecardososs/)">
+    <a href="https://(https://www.linkedin.com/in/daniele-cardoso-a8144b119/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/Dani-CSS/">
