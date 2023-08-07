@@ -5,7 +5,7 @@
     <i>
         I'm Daniele.<br>
         Postgraduate Lato Sensu in Software Engeneering at Universidade Católica de Brasília(UCB).<br>
-     Currently attending MBA in Data Science and Analytics at USP ESALQ, expected completion in august/2023.<br>
+     MBA in Data Science and Analytics at USP ESALQ.<br>
                Developing full stack skills.<br>    
     </i><br>
     <a href="https://https://www.linkedin.com/in/daniele-cardoso-a8144b119/">
