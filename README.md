@@ -6,7 +6,18 @@
         I'm Daniele.<br>
         Postgraduate Lato Sensu in Software Engeneering at Universidade Católica de Brasília(UCB).<br>
      MBA in Data Science and Analytics at USP ESALQ.<br>
-               Developing full stack skills.<br>    
+               Developing full stack skills. <br>
+        <br>
+                                                                        --***--  <br>
+        <br>
+        Olá, Eu sou a Daniele, desenvolvedora de software :D <br>
+
+Tenho pós-graduação em Engenharia de Software pela Universidade Católica de Brasília(UCB) e um MBA em Ciência de Dados pela USP ESALQ. <br>
+           Em busca do aprimoramento dos meus conhecimentos, continuo na área acadêmica cursando uma graduação em Análise e Desenvolvimento de Sistemas. Em paralelo, estou envolvida em cursos hands on para desenvolvimento de projetos pessoais. <br>
+    <br>
+    Estou me preparando para a certificação Oracle Certified Professional (OCP) Java SE 17 Developer, debruçada no Study Guide dos autores Scott Selikoff e Jeanne Boyarsky. Essa preparação enseja uma sólida compreensão do core da linguagem Java, me permitindo estudar minuciosamente tópicos como registros, classes seladas, blocos de texto, datas, fluxos, controle de fluxo de programa, tratamento de exceções, arrays, coleções, além da abordagem orientada a objetos. Minha expectativa é realizar o exame 1Z0-829 dentro de alguns meses. 
+ <br>  
+Tenho proficiência em Inglês certificada pelo exame TOEIC® (Julho/2023) - Score: 725/990 - com habilidade de ler e compreender textos longos e complexos, entender apresentações, discursos, acompanhar conversas, escrever de forma clara, interagir em canais de comunicação corporativa e expressar ideias com espontaneidade. <br> 
     </i><br>
     <a href="https://https://www.linkedin.com/in/danielecardososs">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
