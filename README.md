@@ -17,7 +17,7 @@ Tenho pós-graduação em Engenharia de Software pela Universidade Católica de 
  <br>  
 Tenho proficiência em Inglês certificada pelo exame TOEIC® (Julho/2023) - Score: 725/990 - com habilidade de ler e compreender textos longos e complexos, entender apresentações, discursos, acompanhar conversas, escrever de forma clara, interagir em canais de comunicação corporativa e expressar ideias com espontaneidade. <br> 
     </i><br>
-    <a href="https://https://www.linkedin.com/in/danielecardososs">
+    <a href="[https://https://www.linkedin.com/in/danielecardososs](https://www.linkedin.com/in/daniele-cardoso-a8144b119/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/Dani-CSS/">
