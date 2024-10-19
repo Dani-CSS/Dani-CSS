@@ -1,21 +1,15 @@
 <h1 align="center">Hello, World! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <br><br>
     <i>
-        I'm Daniele.<br>
-        Postgraduate Lato Sensu in Software Engeneering at Universidade Católica de Brasília(UCB).<br>
-     MBA in Data Science and Analytics at USP ESALQ.<br>
-               Developing full stack skills. <br>
+        Heyyy, I'm Daniele :D  <br>
+        I'm a software developer with a postgraduate degree in Software Engineering from Universidade Católica de Brasília (UCB)<br>
+        and an MBA in Data Science and Analytics from USP ESALQ. <br>
         <br>
                                                                         --***--  <br>
         <br>
-        Olá, Eu sou a Daniele, desenvolvedora de software :D <br>
-
-Tenho pós-graduação em Engenharia de Software pela Universidade Católica de Brasília(UCB) e um MBA em Ciência de Dados pela USP ESALQ. <br>
-           <br>Estou me preparando para a certificação Oracle Certified Professional (OCP) Java SE 17 Developer, debruçada no Study Guide dos autores Scott Selikoff e Jeanne Boyarsky. Essa preparação enseja uma sólida compreensão do core da linguagem Java, me permitindo estudar minuciosamente tópicos como registros, classes seladas, blocos de texto, datas, fluxos, controle de fluxo de programa, tratamento de exceções, arrays, coleções, além da abordagem orientada a objetos. Minha expectativa é realizar o exame 1Z0-829 dentro de alguns meses. 
- <br>  
-Tenho proficiência em Inglês certificada pelo exame TOEIC® (Julho/2023) - Score: 725/990 - com habilidade de ler e compreender textos longos e complexos, entender apresentações, discursos, acompanhar conversas, escrever de forma clara, interagir em canais de comunicação corporativa e expressar ideias com espontaneidade. <br> 
+        <br> 
     </i><br>
     <a href="https://www.linkedin.com/in/daniele-cardoso-a8144b119/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
